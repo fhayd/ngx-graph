@@ -1,6 +1,6 @@
 {
-  "name": "ngx-graph",
-  "version": "0.0.0",
+  "name": "@fhayd/ngx-graph",
+  "version": "11.0.0-alpha.0",
   "private": true,
   "scripts": {
     "ng": "ng",
@@ -143,5 +143,23 @@
   },
   "resolutions": {
     "typescript": "5.8.3"
-  }
+  },
+  "description": "[![Join the chat at https://gitter.im/swimlane/ngx-graph](https://badges.gitter.im/swimlane/ngx-graph.svg)](https://gitter.im/swimlane/ngx-graph?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)",
+  "main": "prettier.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhayd/ngx-graph.git"
+  },
+  "keywords": [
+    "ngx-graph",
+    "graph",
+    "angular",
+    "svg",
+    "chart"
+  ],
+  "author": "fhayd",
+  "bugs": {
+    "url": "https://github.com/fhayd/ngx-graph/issues"
+  },
+  "homepage": "https://github.com/fhayd/ngx-graph#readme"
 }

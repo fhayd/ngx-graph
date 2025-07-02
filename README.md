@@ -3,6 +3,7 @@
 [![Join the chat at https://gitter.im/swimlane/ngx-graph](https://badges.gitter.im/swimlane/ngx-graph.svg)](https://gitter.im/swimlane/ngx-graph?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A Graph visualization for angular
+This fork only include fix to create graph without nodes or links (https://github.com/swimlane/ngx-graph/pull/560)
 
 ## Documentation & Demos
 
